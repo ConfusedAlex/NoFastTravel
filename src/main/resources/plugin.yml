@@ -1,5 +1,5 @@
 name: NoNetherFastTravel
-version: '1.0'
+version: '2.0'
 main: confusedalex.nonetherfasttravel.NoNetherFastTravel
 api-version: 1.18
 authors: [ ConfusedAlex ]
